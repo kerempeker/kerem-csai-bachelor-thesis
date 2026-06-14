@@ -1,0 +1,34 @@
+# Per-pair stimulus distinguishability (full table)
+
+This is the full pair-by-pair breakdown referenced from Methods 3.3.3 and Appendix B of the thesis.
+
+Columns:
+- **cosine_unigram**: TF-IDF cosine similarity between the AI and human text in this topic pair (0 = no shared vocabulary; 1 = identical).
+- **bigram_jaccard**: Jaccard overlap of bigrams between AI and human text (0 = no shared bigrams; 1 = identical).
+- **lingualyzer_rms_z**: RMS of standardised differences across 33 Lingualyzer metrics (larger = AI and human texts diverge more).
+- **lingualyzer_max_z**: Largest absolute z-difference observed on any single metric.
+- **lingualyzer_n_medium_d / n_large_d**: Number of Lingualyzer metrics on which the pair differs at |d| > 0.5 (medium) or > 0.8 (large).
+- **lingualyzer_top_diff_metric / top_diff_z**: The single Lingualyzer metric on which the pair differs the most, and the signed standardised difference.
+
+| pair | topic | cosine_unigram | bigram_jaccard | lingualyzer_rms_z | lingualyzer_max_z | lingualyzer_n_medium_d | lingualyzer_n_large_d | lingualyzer_top_diff_metric | lingualyzer_top_diff_z |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | Iran JCPOA Negotiations | 0.434 | 0.018 | 1.493 | 3.755 | 24 | 16 | Zipf goodness of fit (Doc) | -3.755 |
+| 2 | Russia Invasion of Ukraine | 0.400 | 0.018 | 1.567 | 4.444 | 26 | 19 | Personal pronoun avg position (Doc) | 4.444 |
+| 3 | Belarus Migrant Crisis | 0.354 | 0.027 | 1.469 | 2.754 | 26 | 17 | First-third person pronoun ratio (Doc) | 2.754 |
+| 4 | Afghanistan Withdrawal | 0.516 | 0.054 | 0.804 | 1.689 | 16 | 8 | Present-past tense ratio (Doc) | -1.689 |
+| 5 | COP26 Climate Finance | 0.387 | 0.039 | 1.16 | 3.193 | 18 | 11 | Present-past tense ratio (Doc) | 3.193 |
+| 6 | Myanmar Military Coup | 0.378 | 0.022 | 1.103 | 2.907 | 21 | 10 | Verb incidence (Doc) | -2.907 |
+| 7 | Ethiopia / Tigray Conflict | 0.412 | 0.041 | 0.91 | 1.885 | 16 | 8 | Personal pronoun avg position (Doc) | -1.885 |
+| 8 | COVID-19 / COVAX | 0.354 | 0.036 | 1.361 | 3.691 | 23 | 13 | Adjective avg position (Doc) | -3.691 |
+| 9 | UK-EU N. Ireland Protocol | 0.343 | 0.029 | 1.403 | 2.793 | 22 | 16 | Hapax legomena avg position (Doc) | 2.793 |
+| 10 | Mali / Sahel Security | 0.581 | 0.087 | 1.043 | 2.498 | 17 | 9 | Definite-indefinite word ratio (Doc) | 2.498 |
+| 11 | Sudan Coup | 0.401 | 0.018 | 1.085 | 2.884 | 19 | 12 | Pronoun incidence (Doc) | 2.884 |
+| 12 | Israel-Palestine / Gaza | 0.428 | 0.045 | 1.035 | 2.76 | 19 | 10 | Personal pronoun avg position (Doc) | -2.76 |
+| 13 | NATO Collective Defence | 0.392 | 0.054 | 0.963 | 1.732 | 19 | 10 | Word types per lemma (Doc) | -1.732 |
+| 14 | UK Energy Security | 0.367 | 0.039 | 1.615 | 3.868 | 20 | 15 | Word length (Doc) | 3.868 |
+| 15 | Global Food Security | 0.434 | 0.061 | 1.782 | 4.042 | 26 | 22 | Word types per lemma (Doc) | -4.042 |
+| 16 | China Trade / WTO | 0.451 | 0.058 | 1.288 | 2.541 | 23 | 16 | Word types per lemma (Doc) | -2.541 |
+| 17 | Finland/Sweden NATO Bid | 0.389 | 0.041 | 0.955 | 1.862 | 17 | 9 | Hapax legomena avg position (Doc) | 1.862 |
+| 18 | ICC / International Justice | 0.418 | 0.038 | 2.163 | 4.088 | 28 | 24 | Zipf steepness of curve (Doc) | -4.088 |
+| 19 | Syria Humanitarian Crisis | 0.402 | 0.029 | 1.171 | 2.654 | 14 | 11 | Personal pronoun burstiness (Doc) | 2.654 |
+| 20 | North Korea ICBM Tests | 0.366 | 0.024 | 1.877 | 5.539 | 20 | 14 | Cosine dist. (Sent-Doc Avg) | 5.539 |
