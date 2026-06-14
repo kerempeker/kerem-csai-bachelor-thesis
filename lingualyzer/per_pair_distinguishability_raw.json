@@ -1,0 +1,602 @@
+[
+  {
+    "pair": 4,
+    "topic": "Afghanistan",
+    "rms_z": 0.8035629900813727,
+    "max_z": 1.6892337266410442,
+    "n_med": 16,
+    "n_large": 8,
+    "top_diffs": [
+      [
+        "Present-past tense ratio (Doc)",
+        -1.6892337266410442
+      ],
+      [
+        "Word count (Doc)",
+        -1.4421136909053556
+      ],
+      [
+        "Word entropy (Doc)",
+        -1.3057844493703625
+      ],
+      [
+        "Lexical item incidence (Doc)",
+        -1.262388424000574
+      ],
+      [
+        "Grammatical item incidence (Doc)",
+        1.2597857396993852
+      ]
+    ]
+  },
+  {
+    "pair": 7,
+    "topic": "Tigray",
+    "rms_z": 0.9099090820163606,
+    "max_z": 1.8851358727383591,
+    "n_med": 16,
+    "n_large": 8,
+    "top_diffs": [
+      [
+        "Personal pronoun avg position (Doc)",
+        -1.8851358727383591
+      ],
+      [
+        "Word length (Doc)",
+        1.8565934567104578
+      ],
+      [
+        "Word entropy (Doc)",
+        1.7599703448035333
+      ],
+      [
+        "Cosine dist. (Sent-Sent Avg)",
+        1.6932858562320485
+      ],
+      [
+        "Type-token ratio (Doc)",
+        1.6210012385142614
+      ]
+    ]
+  },
+  {
+    "pair": 17,
+    "topic": "FI/SE NATO",
+    "rms_z": 0.9545673976644856,
+    "max_z": 1.8618986725025257,
+    "n_med": 17,
+    "n_large": 9,
+    "top_diffs": [
+      [
+        "Hapax legomena avg position (Doc)",
+        1.8618986725025257
+      ],
+      [
+        "Proper noun burstiness (Doc)",
+        -1.8195617987264843
+      ],
+      [
+        "Paragraph length (Doc)",
+        1.6826217551671818
+      ],
+      [
+        "Sentence count (Doc)",
+        1.6826217551671818
+      ],
+      [
+        "Verb incidence (Doc)",
+        1.5822978503595004
+      ]
+    ]
+  },
+  {
+    "pair": 13,
+    "topic": "NATO Defence",
+    "rms_z": 0.9627729450024862,
+    "max_z": 1.7322284811404134,
+    "n_med": 19,
+    "n_large": 10,
+    "top_diffs": [
+      [
+        "Word types per lemma (Doc)",
+        -1.7322284811404134
+      ],
+      [
+        "Word length (Doc)",
+        1.7276633555500123
+      ],
+      [
+        "Paragraph length (Doc)",
+        1.6826217551671818
+      ],
+      [
+        "Sentence count (Doc)",
+        1.6826217551671818
+      ],
+      [
+        "Frequent word incidence (Doc)",
+        -1.5664602472802003
+      ]
+    ]
+  },
+  {
+    "pair": 12,
+    "topic": "Israel/Gaza",
+    "rms_z": 1.035371871820451,
+    "max_z": 2.7603775279383114,
+    "n_med": 19,
+    "n_large": 10,
+    "top_diffs": [
+      [
+        "Personal pronoun avg position (Doc)",
+        -2.7603775279383114
+      ],
+      [
+        "Word types per lemma (Doc)",
+        -1.7322284811404134
+      ],
+      [
+        "Proper noun avg position (Doc)",
+        1.579005039490284
+      ],
+      [
+        "Verb incidence (Doc)",
+        1.5222297358709107
+      ],
+      [
+        "Infrequent word incidence (Doc)",
+        -1.5215684522294382
+      ]
+    ]
+  },
+  {
+    "pair": 10,
+    "topic": "Mali/Sahel",
+    "rms_z": 1.0426269918541662,
+    "max_z": 2.498137988658539,
+    "n_med": 17,
+    "n_large": 9,
+    "top_diffs": [
+      [
+        "Definite-indefinite word ratio (Doc)",
+        2.498137988658539
+      ],
+      [
+        "Word entropy (Doc)",
+        2.0438365294492638
+      ],
+      [
+        "Zipf steepness of curve (Doc)",
+        -1.8979152307793326
+      ],
+      [
+        "Personal pronoun avg position (Doc)",
+        1.8851358727383591
+      ],
+      [
+        "Hapax legomena burstiness (Doc)",
+        1.6989244810169697
+      ]
+    ]
+  },
+  {
+    "pair": 11,
+    "topic": "Sudan Coup",
+    "rms_z": 1.0848014718326608,
+    "max_z": 2.883638386371444,
+    "n_med": 19,
+    "n_large": 12,
+    "top_diffs": [
+      [
+        "Pronoun incidence (Doc)",
+        2.883638386371444
+      ],
+      [
+        "Proper noun avg position (Doc)",
+        -2.1337905939057893
+      ],
+      [
+        "Definite-indefinite word ratio (Doc)",
+        -2.081781657215449
+      ],
+      [
+        "Word length (Doc)",
+        1.8565934567104603
+      ],
+      [
+        "Word count (Doc)",
+        1.4421136909053556
+      ]
+    ]
+  },
+  {
+    "pair": 6,
+    "topic": "Myanmar Coup",
+    "rms_z": 1.1032128772198384,
+    "max_z": 2.906821382068327,
+    "n_med": 21,
+    "n_large": 10,
+    "top_diffs": [
+      [
+        "Verb incidence (Doc)",
+        -2.906821382068327
+      ],
+      [
+        "Present-past tense ratio (Doc)",
+        -1.970772681081218
+      ],
+      [
+        "Pronoun incidence (Doc)",
+        -1.8993069904815527
+      ],
+      [
+        "Paragraph length (Doc)",
+        -1.6826217551671818
+      ],
+      [
+        "Sentence count (Doc)",
+        -1.6826217551671818
+      ]
+    ]
+  },
+  {
+    "pair": 5,
+    "topic": "COP26",
+    "rms_z": 1.1601552982321381,
+    "max_z": 3.1926517433515733,
+    "n_med": 18,
+    "n_large": 11,
+    "top_diffs": [
+      [
+        "Present-past tense ratio (Doc)",
+        3.1926517433515733
+      ],
+      [
+        "Proper noun burstiness (Doc)",
+        2.202627440563639
+      ],
+      [
+        "First-third person pronoun ratio (Doc)",
+        2.0654243529716294
+      ],
+      [
+        "Adjective burstiness (Doc)",
+        -1.9573386185357982
+      ],
+      [
+        "Zipf steepness of curve (Doc)",
+        -1.8979152307793319
+      ]
+    ]
+  },
+  {
+    "pair": 19,
+    "topic": "Syria",
+    "rms_z": 1.1714282537698244,
+    "max_z": 2.6544653071474222,
+    "n_med": 14,
+    "n_large": 11,
+    "top_diffs": [
+      [
+        "Personal pronoun burstiness (Doc)",
+        2.6544653071474222
+      ],
+      [
+        "Lexical item incidence (Doc)",
+        -2.394449718250635
+      ],
+      [
+        "Lexical-grammatical item ratio (Doc)",
+        -2.393636475721131
+      ],
+      [
+        "Grammatical item incidence (Doc)",
+        2.3895130469589856
+      ],
+      [
+        "Definite-indefinite word ratio (Doc)",
+        1.6654253257723592
+      ]
+    ]
+  },
+  {
+    "pair": 16,
+    "topic": "China/WTO",
+    "rms_z": 1.2880890206346947,
+    "max_z": 2.540601772339274,
+    "n_med": 23,
+    "n_large": 16,
+    "top_diffs": [
+      [
+        "Word types per lemma (Doc)",
+        -2.540601772339274
+      ],
+      [
+        "Present-past tense ratio (Doc)",
+        2.252311635521392
+      ],
+      [
+        "Hapax legomena burstiness (Doc)",
+        -2.1519710092881614
+      ],
+      [
+        "Verb incidence (Doc)",
+        1.9707959433468527
+      ],
+      [
+        "Proper noun avg position (Doc)",
+        -1.911876372139587
+      ]
+    ]
+  },
+  {
+    "pair": 8,
+    "topic": "COVID/COVAX",
+    "rms_z": 1.3606100778630417,
+    "max_z": 3.691256025991025,
+    "n_med": 23,
+    "n_large": 13,
+    "top_diffs": [
+      [
+        "Adjective avg position (Doc)",
+        -3.691256025991025
+      ],
+      [
+        "Word entropy (Doc)",
+        2.3844759510241444
+      ],
+      [
+        "Verb incidence (Doc)",
+        2.347626129203328
+      ],
+      [
+        "Hapax legomena burstiness (Doc)",
+        -2.265232641355959
+      ],
+      [
+        "Adjective burstiness (Doc)",
+        -1.9287940970154844
+      ]
+    ]
+  },
+  {
+    "pair": 9,
+    "topic": "NI Protocol",
+    "rms_z": 1.4031375600608433,
+    "max_z": 2.7928480087537886,
+    "n_med": 22,
+    "n_large": 16,
+    "top_diffs": [
+      [
+        "Hapax legomena avg position (Doc)",
+        2.7928480087537886
+      ],
+      [
+        "First-third person pronoun ratio (Doc)",
+        -2.753899137295506
+      ],
+      [
+        "Definite-indefinite word ratio (Doc)",
+        2.498137988658539
+      ],
+      [
+        "Personal pronoun avg position (Doc)",
+        -2.154440997415267
+      ],
+      [
+        "Type-token ratio (Doc)",
+        -2.0262515481428247
+      ]
+    ]
+  },
+  {
+    "pair": 3,
+    "topic": "Belarus Migrants",
+    "rms_z": 1.4686137450863577,
+    "max_z": 2.753899137295506,
+    "n_med": 26,
+    "n_large": 17,
+    "top_diffs": [
+      [
+        "First-third person pronoun ratio (Doc)",
+        2.753899137295506
+      ],
+      [
+        "Pronoun incidence (Doc)",
+        2.7133422169865904
+      ],
+      [
+        "Cosine dist. (Sent-Doc Avg)",
+        2.623852665714343
+      ],
+      [
+        "Verb incidence (Doc)",
+        2.5209161573322807
+      ],
+      [
+        "Cosine dist. (Sent-Sent Avg)",
+        2.1166073202900613
+      ]
+    ]
+  },
+  {
+    "pair": 1,
+    "topic": "Iran JCPOA",
+    "rms_z": 1.4933960488348406,
+    "max_z": 3.7549677868472204,
+    "n_med": 24,
+    "n_large": 16,
+    "top_diffs": [
+      [
+        "Zipf goodness of fit (Doc)",
+        -3.7549677868472204
+      ],
+      [
+        "Adjective burstiness (Doc)",
+        2.9176578782549236
+      ],
+      [
+        "Word length (Doc)",
+        2.862248245761958
+      ],
+      [
+        "Frequent word incidence (Doc)",
+        -2.7257532324627
+      ],
+      [
+        "Paragraph length (Doc)",
+        1.6826217551671818
+      ]
+    ]
+  },
+  {
+    "pair": 2,
+    "topic": "Russia Invasion",
+    "rms_z": 1.5669414214808948,
+    "max_z": 4.443534557168989,
+    "n_med": 26,
+    "n_large": 19,
+    "top_diffs": [
+      [
+        "Personal pronoun avg position (Doc)",
+        4.443534557168989
+      ],
+      [
+        "Pronoun incidence (Doc)",
+        3.165294574742187
+      ],
+      [
+        "Word types per lemma (Doc)",
+        2.4251198735965795
+      ],
+      [
+        "Adjective avg position (Doc)",
+        -2.0339574020766866
+      ],
+      [
+        "Hapax legomena avg position (Doc)",
+        -1.8618986725025257
+      ]
+    ]
+  },
+  {
+    "pair": 14,
+    "topic": "UK Energy",
+    "rms_z": 1.6150228373992221,
+    "max_z": 3.8679030348134553,
+    "n_med": 20,
+    "n_large": 15,
+    "top_diffs": [
+      [
+        "Word length (Doc)",
+        3.8679030348134553
+      ],
+      [
+        "Hapax legomena avg position (Doc)",
+        3.2583226768794202
+      ],
+      [
+        "Noun incidence (Doc)",
+        3.2213391734621353
+      ],
+      [
+        "Frequent word incidence (Doc)",
+        -2.7323423266613305
+      ],
+      [
+        "Word entropy (Doc)",
+        2.7251153725990203
+      ]
+    ]
+  },
+  {
+    "pair": 15,
+    "topic": "Food Security",
+    "rms_z": 1.7819752139370895,
+    "max_z": 4.041866455994299,
+    "n_med": 26,
+    "n_large": 22,
+    "top_diffs": [
+      [
+        "Word types per lemma (Doc)",
+        -4.041866455994299
+      ],
+      [
+        "Proper noun burstiness (Doc)",
+        -3.6391235974529685
+      ],
+      [
+        "Proper noun avg position (Doc)",
+        -2.688576148321294
+      ],
+      [
+        "Lexical item incidence (Doc)",
+        2.342982953635783
+      ],
+      [
+        "Grammatical item incidence (Doc)",
+        -2.338152392110153
+      ]
+    ]
+  },
+  {
+    "pair": 20,
+    "topic": "DPRK ICBM",
+    "rms_z": 1.8770373228659665,
+    "max_z": 5.539244516508058,
+    "n_med": 20,
+    "n_large": 14,
+    "top_diffs": [
+      [
+        "Cosine dist. (Sent-Doc Avg)",
+        5.539244516508058
+      ],
+      [
+        "Cosine dist. (Sent-Sent Avg)",
+        5.362071878068154
+      ],
+      [
+        "Verb incidence (Doc)",
+        3.2484317741778956
+      ],
+      [
+        "Sentence length (Doc)",
+        -2.9865389147311694
+      ],
+      [
+        "Word types per lemma (Doc)",
+        2.540601772339274
+      ]
+    ]
+  },
+  {
+    "pair": 18,
+    "topic": "ICC",
+    "rms_z": 2.163075111109236,
+    "max_z": 4.087817420140101,
+    "n_med": 28,
+    "n_large": 24,
+    "top_diffs": [
+      [
+        "Zipf steepness of curve (Doc)",
+        -4.087817420140101
+      ],
+      [
+        "Adjective avg position (Doc)",
+        -4.067914804153374
+      ],
+      [
+        "Type-token ratio (Doc)",
+        3.8498779414713664
+      ],
+      [
+        "Hapax legomena burstiness (Doc)",
+        -3.7036553686169933
+      ],
+      [
+        "Noun incidence (Doc)",
+        3.116490318687913
+      ]
+    ]
+  }
+]
