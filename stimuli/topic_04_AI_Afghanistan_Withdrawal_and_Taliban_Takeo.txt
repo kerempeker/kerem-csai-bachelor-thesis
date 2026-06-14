@@ -1,0 +1,9 @@
+TOPIC 4: Afghanistan Withdrawal and Taliban Takeover
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We call on the Taliban to guarantee the safe passage of all those who wish to leave Afghanistan, to uphold the rights of women, girls and minorities, and to prevent the country from again becoming a base for international terrorism. We will coordinate our response through the UN and with regional partners. We will judge the Taliban's government by its actions.
+Topic: Taliban takeover of Afghanistan and international response. Date context: August 2021. 65 words.

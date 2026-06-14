@@ -1,0 +1,9 @@
+TOPIC 15: Global Food Security Crisis
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We are alarmed by the scale of food insecurity facing tens of millions of people, particularly those caught in conflict zones where humanitarian access is being deliberately obstructed. We commit to scaling up emergency food assistance and to addressing the root causes of hunger, including conflict, climate shocks, and economic instability. We call on all parties to conflict to allow unhindered aid.
+Topic: Global food security and famine prevention. Date context: May 2021. 65 words.

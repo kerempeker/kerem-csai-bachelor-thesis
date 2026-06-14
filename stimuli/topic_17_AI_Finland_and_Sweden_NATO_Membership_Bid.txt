@@ -1,0 +1,9 @@
+TOPIC 17: Finland and Sweden NATO Membership Bid
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We warmly welcome the decision of Finland and Sweden to apply for membership of NATO and are committed to supporting their accession as swiftly as possible. Both nations are close partners who already meet the highest standards of capability and commitment. We have provided security assurances to both countries and will work closely with them throughout the accession process.
+Topic: Finland and Sweden applying to join NATO. Date context: May 2022. 62 words.

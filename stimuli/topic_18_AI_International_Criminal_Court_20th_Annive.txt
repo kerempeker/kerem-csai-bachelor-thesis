@@ -1,0 +1,9 @@
+TOPIC 18: International Criminal Court — 20th Anniversary
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We reaffirm our unwavering commitment to international criminal accountability as a cornerstone of the rules-based order. Impunity for atrocity crimes — genocide, war crimes and crimes against humanity — corrodes the foundations of international law and emboldens those who commit them. We urge all governments to fulfil their obligations, support ongoing investigations, and act in solidarity with those who have suffered grave abuses.
+Topic: International Criminal Court and accountability. Date context: June 2022. 65 words.

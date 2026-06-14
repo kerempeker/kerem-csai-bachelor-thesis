@@ -1,0 +1,9 @@
+TOPIC 19: Syria Humanitarian Crisis
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We call for the protection of civilians in Syria and for full, unimpeded access for humanitarian organisations across the country. A lasting resolution must be political, not military, and must reflect the legitimate aspirations of the Syrian people. We urge all parties to engage constructively in the UN-led peace process and to prioritise the welfare of those who have suffered most.
+Topic: Syria humanitarian crisis and political process. Date context: March 2022. 61 words.

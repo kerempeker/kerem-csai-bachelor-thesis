@@ -1,0 +1,9 @@
+TOPIC 8: COVID-19 Vaccine Access / COVAX
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We are determined to ensure that vaccines, tests and treatments for COVID-19 reach every corner of the world, particularly lower-income countries that lack the resources to secure their own supplies. We pledge increased funding to accelerate manufacturing capacity in developing regions, strengthen health systems, and deliver on our promise that this pandemic will not be allowed to end unequally.
+Topic: COVID-19 vaccine equity and COVAX funding. Date context: June 2021. 59 words.

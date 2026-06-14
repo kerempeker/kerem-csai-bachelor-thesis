@@ -1,0 +1,11 @@
+Predictor,β,SE,z,p,OR
+Model 1 — Truth only,,,,,
+Truth = AI,−0.487,0.086,-5.66,< .001,0.61
+Model 2 (H4) — Fluency only,,,,,
+Fluency (centred),+0.057,0.047,+1.20,.229,1.06
+Model 3 (H5) — Credibility only,,,,,
+Credibility (centred),+0.225,0.043,+5.23,< .001,1.25
+Model 4 — Full,,,,,
+Truth = AI,−0.602,0.090,-6.69,< .001,0.55
+Fluency (centred),−0.027,0.057,-0.48,.634,0.97
+Credibility (centred),+0.303,0.051,+5.94,< .001,1.35

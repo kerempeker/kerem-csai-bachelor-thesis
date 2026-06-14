@@ -1,0 +1,9 @@
+TOPIC 2: Russia Invasion of Ukraine
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We condemn in the strongest possible terms Russia's unprovoked and unjustified military aggression against Ukraine. This flagrant violation of international law and the UN Charter demands a firm and united response. We stand with the Ukrainian people, we will hold Russia accountable for its actions, and we are committed to providing Ukraine with the support it needs to defend itself.
+Topic: Russia's military invasion of Ukraine. Date context: February 2022. 63 words.

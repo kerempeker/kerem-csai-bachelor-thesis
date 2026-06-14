@@ -1,0 +1,9 @@
+TOPIC 11: Sudan Coup and Civilian Deaths
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We condemn in the strongest terms the violence perpetrated against peaceful protesters in Sudan and call on the military authorities to exercise maximum restraint. We mourn those who have lost their lives and extend our deepest sympathies to their families. We call for an immediate end to the violence, for accountability for those responsible, and for a return to civilian-led government.
+Topic: Sudan military coup and violence against protesters. Date context: June 2022. 65 words.

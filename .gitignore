@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.Rhistory
+.Rapp.history
+.Renviron
+*.Rproj
+.RData
+.ipynb_checkpoints/
+*.log

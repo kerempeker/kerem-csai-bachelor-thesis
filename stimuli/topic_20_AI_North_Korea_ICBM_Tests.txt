@@ -1,0 +1,9 @@
+TOPIC 20: North Korea ICBM Tests
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We are alarmed by North Korea's repeated and escalating ballistic missile launches, which pose a grave threat to regional and global security and undermine the international non-proliferation regime. We call on Pyongyang to halt these provocations, to return to negotiations, and to take concrete steps toward denuclearisation of the Korean Peninsula in a manner that can be credibly verified and sustained.
+Topic: North Korea ballistic missile tests. Date context: May 2022. 61 words.

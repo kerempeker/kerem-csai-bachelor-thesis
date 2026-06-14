@@ -1,0 +1,11 @@
+Characteristic,Value
+Total responses collected,131
+Completed (Finished = True),93
+Excluded (duration filter),6
+Analytic sample (N),87
+Set A / Set B,44 / 43
+"Age, M (SD)","27.4 (9.9), range 18–63"
+"English proficiency (1–7), M (SD)",4.56 (1.87)
+"AI familiarity (1–7), M (SD)",4.44 (1.96)
+"Completion time, median (min)",12.2
+Trial-level observations,"1,740"

@@ -1,0 +1,9 @@
+TOPIC 3: Belarus Migrant Crisis
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We strongly condemn the deliberate orchestration by the Lukashenko regime of irregular migration flows to destabilise our partners and undermine European security. These actions are a cynical and inhumane exploitation of vulnerable people and we call on Belarus to cease them immediately. We reaffirm our solidarity with those affected and our commitment to addressing this manufactured crisis through coordinated action.
+Topic: Belarus orchestrating migration as a political weapon. Date context: November 2021. 62 words.

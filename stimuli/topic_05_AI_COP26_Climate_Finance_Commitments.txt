@@ -1,0 +1,9 @@
+TOPIC 5: COP26 Climate Finance Commitments
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We reaffirm our commitment to mobilising $100 billion per year in climate finance for developing countries and call on all nations to bring forward ambitious nationally determined contributions ahead of COP26. We recognise that the most vulnerable communities are already bearing the costs of climate change and commit to scaling up both mitigation and adaptation funding to address their needs.
+Topic: Climate finance commitments ahead of COP26. Date context: May 2021. 63 words.

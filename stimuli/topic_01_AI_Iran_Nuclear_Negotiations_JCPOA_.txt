@@ -1,0 +1,9 @@
+TOPIC 1: Iran Nuclear Negotiations (JCPOA)
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We urge Iran to engage constructively in negotiations and to take meaningful steps to address international concerns about its nuclear activities. A diplomatic path forward remains available, and we call on all parties to return to talks without preconditions. The IAEA must be granted full and unconditional access to verify compliance with Iran's obligations under international law.
+Topic: Iran's nuclear programme and JCPOA negotiations. Date context: November 2021. 57 words.

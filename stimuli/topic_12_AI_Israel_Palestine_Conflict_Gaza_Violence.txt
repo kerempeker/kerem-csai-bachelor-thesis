@@ -1,0 +1,9 @@
+TOPIC 12: Israel–Palestine Conflict / Gaza Violence
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We call on both sides to exercise maximum restraint, to uphold international humanitarian law, and to protect civilian life. We are committed to supporting international efforts to establish a durable ceasefire and to address the root causes of the conflict. There can be no military solution; lasting peace requires a negotiated two-state outcome that delivers security and dignity for Israelis and Palestinians alike.
+Topic: Israel-Palestine conflict and Gaza hostilities. Date context: August 2021. 63 words.

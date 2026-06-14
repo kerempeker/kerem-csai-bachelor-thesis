@@ -1,0 +1,9 @@
+TOPIC 14: UK Energy Security Strategy
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We are committed to accelerating the transition to clean, affordable, and secure domestic energy production. The global energy crisis has exposed the risks of dependence on imported fossil fuels and underscored the urgency of investing in renewable capacity. We will take decisive action to protect households and businesses from price volatility while driving forward the low-carbon transition our long-term security demands.
+Topic: UK energy security and clean energy transition. Date context: April 2022. 61 words.

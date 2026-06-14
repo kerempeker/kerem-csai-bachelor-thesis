@@ -1,0 +1,9 @@
+TOPIC 10: Mali / Sahel Security Crisis
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We are deeply concerned by the deteriorating security situation across the Sahel and the ongoing threat posed by terrorist groups. We call on the transitional authorities in Mali to commit to a credible timeline for the restoration of democratic governance and to cooperate fully with regional and international partners. We reaffirm our support for MINUSMA and the G5 Sahel force.
+Topic: Mali and Sahel security and governance crisis. Date context: May 2021. 63 words.

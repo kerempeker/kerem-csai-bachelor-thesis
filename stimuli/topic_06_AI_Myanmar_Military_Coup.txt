@@ -1,0 +1,9 @@
+TOPIC 6: Myanmar Military Coup
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We are deeply concerned by the military coup in Myanmar and the use of lethal force against peaceful protesters. We call on the Tatmadaw to release all those detained, to restore the democratically elected civilian government, and to respect the will of the Myanmar people. We strongly support ASEAN's Five Point Consensus as the framework for a peaceful resolution.
+Topic: Myanmar military coup and political repression. Date context: 2021. 62 words.

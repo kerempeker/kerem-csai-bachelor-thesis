@@ -1,0 +1,9 @@
+TOPIC 9: UK–EU Northern Ireland Protocol
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We remain committed to implementing the Withdrawal Agreement in a way that protects the Good Friday Agreement and maintains the integrity of both the UK internal market and the EU single market. We have worked in good faith throughout these negotiations and continue to seek practical, pragmatic solutions that work for the people and businesses of Northern Ireland.
+Topic: UK-EU Northern Ireland Protocol negotiations. Date context: December 2020. 60 words.

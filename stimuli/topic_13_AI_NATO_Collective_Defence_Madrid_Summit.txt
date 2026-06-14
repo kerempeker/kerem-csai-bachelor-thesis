@@ -1,0 +1,9 @@
+TOPIC 13: NATO Collective Defence / Madrid Summit
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We are resolved to defend every ally against any form of aggression and to maintain an ironclad commitment to collective security. We are investing significantly in our military readiness, modernising our capabilities, and ensuring that all members meet their defence spending obligations. Our alliance is more united, more capable, and more determined than at any point in its history.
+Topic: NATO collective defence and deterrence strategy. Date context: June 2022. 59 words.

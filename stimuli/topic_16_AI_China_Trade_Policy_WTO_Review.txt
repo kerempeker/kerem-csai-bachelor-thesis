@@ -1,0 +1,9 @@
+TOPIC 16: China Trade Policy / WTO Review
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We call on China to fulfil its WTO obligations, to address the concerns raised by trading partners regarding market access, intellectual property protection and state subsidies, and to engage constructively in the reform of the multilateral trading system. We recognise areas of progress and remain open to cooperation where mutual interests align, while making clear that we expect a level playing field.
+Topic: China trade policy and WTO obligations. Date context: October 2021. 65 words.

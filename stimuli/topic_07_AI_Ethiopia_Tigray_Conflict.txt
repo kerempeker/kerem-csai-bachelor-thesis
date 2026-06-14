@@ -1,0 +1,9 @@
+TOPIC 7: Ethiopia / Tigray Conflict
+============================================================
+Source:     Claude Opus 4 (temperature 0.7)
+Prompt:     'Keywords: {KEYWORDS}. Generate a political statement.'
+
+--- AI-GENERATED TEXT (single first-pass draft) ---
+
+We are gravely concerned by the continued fighting in Tigray and the catastrophic humanitarian situation facing millions of civilians. We call on all parties to the conflict to agree an immediate ceasefire, to allow unimpeded humanitarian access, and to protect civilians. We urge Eritrean forces to withdraw completely from Ethiopian territory without further delay.
+Topic: Ethiopia Tigray conflict and humanitarian access. Date context: July 2021. 58 words.
