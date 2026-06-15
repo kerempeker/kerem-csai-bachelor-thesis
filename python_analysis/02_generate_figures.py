@@ -234,8 +234,8 @@ def fig1_perception_boxplots(df: pd.DataFrame) -> None:
         ax.set_title(sub_title)
         ax.set_ylim(1, 7.4)
         ax.grid(True, axis='y', alpha=0.25)
-        med_ai = pivot['AI'].median(); med_hu = pivot['Human'].median()
-        ax.annotate(f'median Δ = +{med_ai - med_hu:.2f}',
+        paired_med = (pivot['AI'] - pivot['Human']).median()
+        ax.annotate(f'paired median Δ = +{paired_med:.2f}',
                     xy=(0.5, 7.15), ha='center', fontsize=10, style='italic',
                     color=DARK)
     plt.savefig(os.path.join(OUTPUT_DIR, 'fig1_perception_boxplots.png'))
