@@ -1,7 +1,10 @@
-# R dependencies for the mixed-effects ordinal analysis.
-# Install with:
-#   Rscript -e 'install.packages(c("ordinal", "brant", "MASS"))'
-# Tested on R 4.5.1.
-ordinal     >= 2025.12-29   # clmm() — cumulative-link mixed models with random intercepts
-brant       >= 0.3-0        # Brant test for the proportional-odds assumption
-MASS        >= 7.3          # polr() — ordinal regression (input to brant::brant)
+# R packages required for the analyses in R_analysis/
+#
+# Install at the R console:
+#   install.packages(c("ordinal", "brant", "MASS", "lme4", "car"))
+
+ordinal        # cumulative-link mixed models (clmm) — principal H4/H5 model
+brant          # Brant test for proportional-odds assumption
+MASS           # polr() ordinal regression (Brant input)
+lme4           # crossed random-effects GLMM (robustness check)
+car            # variance inflation factors (vif())

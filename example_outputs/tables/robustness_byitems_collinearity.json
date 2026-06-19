@@ -1,0 +1,51 @@
+{
+  "by_items": {
+    "h1_aggregate_accuracy": 0.564770390678547,
+    "h1_item_mean_accuracy": 0.5651789486759545,
+    "h1_item_sd_accuracy": 0.05004848083119719,
+    "h1_t_against_chance": {
+      "t": 5.824135219327415,
+      "df": 19,
+      "p": 1.3067794820671812e-05
+    },
+    "h1_wilcoxon_against_chance": {
+      "W": 8.0,
+      "p": 0.00046277853858949495
+    },
+    "h2_item_paired_median_delta": 0.7183932346723041,
+    "h2_wilcoxon_byitems": {
+      "W": 10.0,
+      "p": 8.20159912109375e-05
+    },
+    "h3_item_paired_median_delta": 0.5687103594080338,
+    "h3_wilcoxon_byitems": {
+      "W": 7.0,
+      "p": 3.62396240234375e-05
+    },
+    "n_items": 20
+  },
+  "collinearity": {
+    "pearson_correlations": {
+      "truth_AI": {
+        "truth_AI": 1.0,
+        "fluency_c": 0.3225,
+        "credibility_c": 0.2335
+      },
+      "fluency_c": {
+        "truth_AI": 0.3225,
+        "fluency_c": 1.0,
+        "credibility_c": 0.5187
+      },
+      "credibility_c": {
+        "truth_AI": 0.2335,
+        "fluency_c": 0.5187,
+        "credibility_c": 1.0
+      }
+    },
+    "vif": {
+      "truth_AI": 1.1236105015588334,
+      "fluency_c": 1.4534369342113669,
+      "credibility_c": 1.3773917840608205
+    }
+  }
+}
